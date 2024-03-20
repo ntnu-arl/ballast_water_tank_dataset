@@ -20,3 +20,6 @@ IMU     | [Vectornav VN100](https://www.vectornav.com/products/detail/vn-100) | 
 Radar   | -               | [Texas Instruments IWR6843AOP-EVM Radar](https://www.ti.com/tool/IWR6843AOPEVM)
 
 *For data privacy reasons the faces of people in the images are blurred.
+
+## Acknowledgements
+We would like to acknowledge the support of the Research Council of Norway and our partners in the projects [SENTIENT](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321435?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=120&TemaEmne.2=Nanoteknologi) (NO-321435) and [REDHUS](https://prosjektbanken.forskningsradet.no/en/project/FORISS/317773?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=60&TemaEmne.1=LTP2+Hav) (NO-317773) in this work.
